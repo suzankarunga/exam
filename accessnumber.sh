@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-read -p "Enter your Reg-No: " regnum
+read -p "A93611: " regnum
